@@ -1,6 +1,9 @@
 # WP Stack
 # Modified by @lkbcc
-#
+
+Instructions
+
+###
 
 A toolkit for creating professional [WordPress][wp] deployments.
 
