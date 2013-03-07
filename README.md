@@ -1,4 +1,7 @@
 # WP Stack
+# Modified by @lkbcc
+#
+
 A toolkit for creating professional [WordPress][wp] deployments.
 
 Commissioned by [Knewton](http://www.knewton.com/).
